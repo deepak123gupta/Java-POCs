@@ -1,0 +1,39 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled class files
+*.class
+
+*.xml
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+/out/
+target/
+build/
+bin/
+
+# Maven
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+/settings.xml
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse (if used later)
+.project
+.classpath
+.c9/
+.settings/
+
+# Environment files
+.env
